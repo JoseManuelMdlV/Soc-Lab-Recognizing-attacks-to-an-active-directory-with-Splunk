@@ -1,0 +1,1 @@
+# Soc-Lab-Recognizing-attacks-to-an-active-directory-with-Splunk
